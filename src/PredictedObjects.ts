@@ -68,6 +68,7 @@ export type PredictedObjects = {
         points: {
           x: number;
           y: number;
+          z: number;
         }[];
       };
       dimensions: Dimensions;

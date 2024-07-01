@@ -59,6 +59,7 @@ export type TrackedObjects = {
         points: {
           x: number;
           y: number;
+          z: number;
         }[];
       };
       dimensions: Dimensions;

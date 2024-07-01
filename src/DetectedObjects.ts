@@ -43,6 +43,7 @@ export type DetectedObjects = {
         points: {
           x: number;
           y: number;
+          z: number;
         }[];
       };
       dimensions: Dimensions;
